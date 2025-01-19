@@ -1,0 +1,7 @@
+python-dateutil==2.8.0
+setuptools==72.1.0
+dbt-core==1.5.11
+dbt-extractor==0.4.1
+dbt-greenplum==1.5.0
+dbt-postgres==1.5.11
+dbt-semantic-interfaces==0.5.1

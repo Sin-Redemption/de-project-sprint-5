@@ -1,0 +1,9 @@
+.venv
+__pycache__
+.env
+.vscode
+src/dbt/target/
+src/dbt/dbt_packages/
+**/logs/
+.user.yml
+profiles.yml

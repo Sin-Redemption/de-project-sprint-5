@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: staging
+    database: de
+    schema: stg
+    tables: 
+      - name: api_deliveries
+      - name: api_couriers
+      - name: ordersystem_orders

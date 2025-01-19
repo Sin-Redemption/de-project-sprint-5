@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: dds
+    database: de
+    schema: dds
+    tables: 
+      - name: dm_couriers
+      - name: dm_orders
+      - name: dm_products
+      - name: dm_restaurants
+      - name: dm_timestamps
+      - name: dm_users
+      - name: fct_deliveries
+      - name: fct_product_sales
